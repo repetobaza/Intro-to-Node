@@ -4,17 +4,16 @@
   "description": "Simple Web App",
   "main": "hello.js",
   "scripts": {
-	"start": "node hello.js"
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/repetobaza/intro_to_node.git"
+    "url": "git+https://github.com/repetobaza/Intro-to-Node.git"
   },
-  "author": "10shtuk",
+  "author": "Andrii Oshtuk",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/repetobaza/intro_to_node/issues"
+    "url": "https://github.com/repetobaza/Intro-to-Node/issues"
   },
-  "homepage": "https://github.com/repetobaza/intro_to_node#readme"
+  "homepage": "https://github.com/repetobaza/Intro-to-Node#readme"
 }
